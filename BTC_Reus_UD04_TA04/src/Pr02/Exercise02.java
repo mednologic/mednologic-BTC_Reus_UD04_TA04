@@ -16,7 +16,6 @@ public class Exercise02 {
 		
 		double 	suma;
 		double 	diferencia;
-		int 	valNumChar;
 //Lógica
 		suma 		= varN+varA;
 		diferencia 	= varA-varN;
